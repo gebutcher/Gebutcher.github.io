@@ -4,6 +4,7 @@ title: Подборка лучших OSINT ботов пробива в Telegra
 categories: probiv
 author: Gebutcher
 meta: Боты телеграм для пробива информации о номере телефона, автомобиля, ФИО, адресу и многому другому.
+description: Боты телеграм для пробива информации о номере телефона, автомобиля, ФИО, адресу и многому другому.
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*49eeDUXQiJP8oCSh7wXFKg.jpeg)
