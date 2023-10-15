@@ -182,7 +182,7 @@ would be:
 
 ```yaml
 minima:
-  skin: dark
+  skin: auto
 ```
 
 As part of the migration to support skins, some existing Sass variables have been retired and some **have been redefined** as
