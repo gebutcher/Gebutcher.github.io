@@ -14,7 +14,7 @@ title: Gebutcher
 
 theme: minima
 
-plugins:
+# plugins:
 #   - jekyll-feed
 #  - jekyll-seo-tag
 
