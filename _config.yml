@@ -1,4 +1,4 @@
-# title: Gebutcher
+ title: Gebutcher
 # author:
 #   name: Gebutcher
 #   email: your-email@domain.com
@@ -15,7 +15,7 @@
 theme: minima
 
 plugins:
-  - jekyll-feed
+#   - jekyll-feed
   - jekyll-seo-tag
 
 # Theme-specific settings
