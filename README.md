@@ -288,8 +288,8 @@ corresponding to a link rendered in the footer. For example, to render links to 
 ```yaml
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+    - { platform: github,  user_url: "https://github.com/gebutcher" }
+    - { platform: twitter, user_url: "https://twitter.com/Gebutcher" }
 ```
 
 Apart from the necessary keys illustrated above, `title` may also be defined to render a custom link-title. By default, the title is the same
@@ -357,18 +357,3 @@ To display post-excerpts on the Home Page, simply add the following to your `_co
 ```yaml
 show_excerpts: true
 ```
-
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `script/bootstrap`.
-
-To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
