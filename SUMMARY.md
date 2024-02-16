@@ -7,3 +7,4 @@
 * [Принцип работы ботов пробива информации](princip-raboty-botov-probiva-informacii.md)
 * [Как использовать ботов в Telegram](kak-ispolzovat-botov-v-telegram.md)
 * [Боты для пробива — мощные инструменты или нарушение приватности?](boty-dlya-probiva-moshnye-instrumenty-ili-narushenie-privatnosti.md)
+* [Топ боты для пробивки информации](top-boty-dlya-probivki-informacii.md)
