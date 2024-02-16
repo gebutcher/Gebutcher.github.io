@@ -8,3 +8,5 @@
 * [Как использовать ботов в Telegram](kak-ispolzovat-botov-v-telegram.md)
 * [Боты для пробива — мощные инструменты или нарушение приватности?](boty-dlya-probiva-moshnye-instrumenty-ili-narushenie-privatnosti.md)
 * [Топ боты для пробивки информации](top-boty-dlya-probivki-informacii.md)
+* [🔎 Подборка OSINT ресурсов, благодаря которым можно найти нужную информацию о социальных сетях челов](podborka-osint-resursov-blagodarya-kotorym-mozhno-naiti-nuzhnuyu-informaciyu-o-socialnykh-setyakh-ch.md)
+* [OSINT пробив в Telegram](osint-probiv-v-telegram.md)
