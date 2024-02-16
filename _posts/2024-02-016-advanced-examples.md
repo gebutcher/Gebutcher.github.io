@@ -1,9 +1,7 @@
 ---
-title: About
-permalink: /about/
+title: "Подборка лучших OSINT ботов пробива в Telegram"
+layout: post
 ---
-
-# Подборка лучших OSINT ботов пробива в Telegram
 
 <figure><img src=".gitbook/assets/boti_probiva.jpeg" alt=""><figcaption></figcaption></figure>
 
