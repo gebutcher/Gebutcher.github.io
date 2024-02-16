@@ -5,3 +5,5 @@
 * [Хакерские боты Telegram](khakerskie-boty-telegram.md)
 * [Эффективные инструменты для OSINTа / пробива в ВКонтакте](effektivnye-instrumenty-dlya-osinta-probiva-v-vkontakte.md)
 * [Принцип работы ботов пробива информации](princip-raboty-botov-probiva-informacii.md)
+* [Как использовать ботов в Telegram](kak-ispolzovat-botov-v-telegram.md)
+* [Боты для пробива — мощные инструменты или нарушение приватности?](boty-dlya-probiva-moshnye-instrumenty-ili-narushenie-privatnosti.md)
