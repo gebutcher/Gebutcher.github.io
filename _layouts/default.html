@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+<meta name="description" content="Расскажу о разнообразных telegram ботах для поиска информации. Эти боты для деанона и OSINT, помогают вам пробивать человеке по номерам телефонов, номерам автомобилей, адресам, электронным ящикам почты и находить ценную информацию в интернете." />
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
 <link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
@@ -30,7 +31,6 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  <meta name="description" content="Расскажу о разнообразных telegram ботах для поиска информации. Эти боты для деанона и OSINT, помогают вам пробивать человеке по номерам телефонов, номерам автомобилей, адресам, электронным ящикам почты и находить ценную информацию в интернете." />
 </header>
 
 {{ content }}
