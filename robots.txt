@@ -1,0 +1,3 @@
+Sitemap: https://gebutcher.info/sitemap.xml
+User-agent: *
+Allow: 
