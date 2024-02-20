@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://raw.githubusercontent.com/gebutcher/Gebutcher.github.io/main/images/bo_tg_probiv.jpeg)
+![Swiss Alps](/images/bo_tg_probiv.jpeg)
 
 **Telegram** - это один из самых популярных мессенджеров в мире, и одной из его ключевых особенностей является возможность использования ботов. Боты - это автоматизированные аккаунты, способные выполнять различные задачи и предоставлять разнообразную информацию пользователям. В этой статье мы расскажем вам, как использовать ботов в Telegram и какие возможности они предоставляют.
 
