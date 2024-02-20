@@ -88,19 +88,19 @@ OSINT — боты или еще их называют ботами для “п
 
 [@VKHistoryRobot](https://t.me/VKHistoryRobot) — Покажет как профиль ВКонтакте выглядел в прошлом (бесплатно).
 
-[@vkfindface\_bot](https://t.me/vkfindface\_bot?start=355273976) — Бот для поиска профиля человека Вконтакте по его фото.
+[@vkfindface\_bot](https://bit.ly/48nHqrY) — Бот для поиска профиля человека Вконтакте по его фото.
 
-[@InfoVkUser\_bot](https://t.me/InfoVkUser\_bot) — анализ друзей профиля ВК. Сейчас доступны ВУЗы и родные города.
+[@InfoVkUser\_bot](https://t.me/InfoVkUser_bot) — анализ друзей профиля ВК. Сейчас доступны ВУЗы и родные города.
 
-[@VKUserInfo\_bot](https://t.me/VKUserInfo\_bot) — выдает полную инфу о профиле ВК.
+[@VKUserInfo\_bot](https://t.me/VKUserInfo_bot) — выдает полную инфу о профиле ВК.
 
 ## Другие соцсети: <a href="#id-1f5f" id="id-1f5f"></a>
 
-[@InstaBot](http://t.me/InstaBot?start=ref-355273976) — скачивает любые медиафайлы из Instagram.
+[@InstaBot](https://bit.ly/49KrzVt) — скачивает любые медиафайлы из Instagram.
 
 [@SaveYoutubeBot](https://t.me/SaveYoutubeBot) — ищет и скачивает ролики из YouTube.
 
-[@getfb\_bot](https://t.me/getfb\_bot) — поиск страницы в Facebook по номеру телефона.
+[@getfb\_bot](https://t.me/getfb_bot) — поиск страницы в Facebook по номеру телефона.
 
 ## Автоботы: <a href="#id-6afc" id="id-6afc"></a>
 
@@ -112,7 +112,7 @@ OSINT — боты или еще их называют ботами для “п
 
 [@AntiParkonBot](https://ok.me/jjlC1) — бесплатный бот для тех, кто хочет предупредить владельца об эвакуации его авто или наоборот оповестить о нарушителе ПДД.
 
-[@get\_kolesa\_bot — ](https://t.me/get\_kolesa\_bot)найдет объявления на колеса.кз
+[@get\_kolesa\_bot — ](https://t.me/ru_auto_bot)найдет объявления на колеса.кз
 
 ## Полезное: <a href="#b5c9" id="b5c9"></a>
 
