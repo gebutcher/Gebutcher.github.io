@@ -3,7 +3,7 @@ title: "Список сайтов и сервисов по пробиву 2024"
 layout: post
 ---
 
-![Swiss Alps](https://raw.githubusercontent.com/gebutcher/Gebutcher.github.io/main/images/Probiv2024.png)
+![Swiss Alps](/images/Probiv2024.png)
 
 Мы подготовили список сайтов, которые помогут вам найти (пробить) информацию о любой цели. Статья будет полезна практически каждому, кто интересуется OSINT и пробивом.
 
