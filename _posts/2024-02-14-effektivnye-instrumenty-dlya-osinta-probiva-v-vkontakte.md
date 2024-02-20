@@ -3,7 +3,7 @@ title:  "Эффективные инструменты для OSINTа / проб
 layout: post
 ---
 
-![Swiss Alps](https://raw.githubusercontent.com/gebutcher/Gebutcher.github.io/main/images/vk.png)
+![Swiss Alps](/images/vk.png)
 
 Вот набор лучших на сегодня инструментов для поиска информации о пользователях ВКонтакте из открытых источников (OSINT).
 
