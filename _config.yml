@@ -1,7 +1,7 @@
 title: "Gebutcher"
 author: "Gebutcher"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
+# permalink: /:title/
 lang: "ru"
 excerpt_separator: "\n\n\n"
 date_format: "%Y-%m-%d"
