@@ -98,7 +98,7 @@ layout: post
 
 15\. [HiddenFriends](https://vk.com/app3256362) — Поиск скрытых друзей в списке контактов.
 
-16.⁣⁣ [UniversalSearchRobot](https://t.me/UniversalSearchRobot) — Поиск информации в Мой Мир.
+16.⁣⁣ [UniversalSearchRobot](https://t.me/UniversalSearchSuperBot) — Поиск информации в Мой Мир.
 
 17\. [Vbib\_bot](https://t.me/Vbib\_bot) — Множество функций, включая поиск по номеру телефона и email.
 
@@ -116,9 +116,9 @@ layout: post
 
 5\. [Creationdatebot](https://t.me/creationdatebot) — Дата создания аккаунта на основе доступных данных.
 
-6\. [Unamer](https://t.me/unamer\_bot) — Предоставляет информацию о том, какие пользователи использовали определенные никнеймы.
+6\. [Unamer](https://bit.ly/49BVEqF) — Предоставляет информацию о том, какие пользователи использовали определенные никнеймы.
 
-7\. [Telescan](https://t.me/TeleScans\_Bot) — Исторические данные о пользователях, включая сообщения и историю смены имен.
+7\. [Telescan](https://bit.ly/3ORc6uN) — Исторические данные о пользователях, включая сообщения и историю смены имен.
 
 8\. [UniversalSearch](https://t.me/UniversalSearchRobot) — Данные по Telegram ID, включая адреса почты и статусы.
 
