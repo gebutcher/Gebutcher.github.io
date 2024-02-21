@@ -1,5 +1,5 @@
 ---
-title: "Подборка лучших OSINT ботов пробива в Telegram"
+title: "Подборка лучших OSINT ботов пробива Telegram"
 layout: post
 ---
 
