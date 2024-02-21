@@ -33,7 +33,7 @@ layout: post
 
 #### URL: <a href="#wbh4" id="wbh4"></a>
 
-* [Onli-VK.ru](https://onli-vk.ru/pivatfriends.php?id=12345) — позволяет искать друзей аккаунта по айди.
+* [Onli-VK.ru](https://onli-vk.ru/) — позволяет искать друзей аккаунта по айди.
 
 #### Приложения в самом VK: <a href="#jyjm" id="jyjm"></a>
 
