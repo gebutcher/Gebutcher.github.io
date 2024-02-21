@@ -42,7 +42,7 @@ OSINT — боты или еще их называют ботами для “п
 
 [@Real GetContact bot](https://ok.me/Ax7D1) — GetContact настоящий с 4 бесплатными поисками.
 
-[@HimeraSearch](/HimeraSearch/) — найдет информацию о номере телефона, ФИО, Email, и по Telegam ID. Выдает больше информации, чем оригинальный GetContact.
+[@phone_bot](https://t.me/getphonename_bot) — найдет информацию о номере телефона, ФИО, Email, и по Telegam ID. Выдает больше информации, чем оригинальный GetContact.
 
 [@LeakOSINT\_bot](/LeakOSINT/) — Данный бот расскажет о том, слиты ли ваши данные в сеть по номеру телефона. Также он находит информацию по ВКонтакте, Facebook, Telegram аккаунтам.
 
