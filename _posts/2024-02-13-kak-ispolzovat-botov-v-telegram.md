@@ -1,5 +1,5 @@
 ---
-title:  "Как использовать ботов в Telegram"
+title:  "Как использовать ботов Телеграм"
 mathjax: true
 layout: post
 categories: media
