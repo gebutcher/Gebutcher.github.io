@@ -1,4 +1,9 @@
-# Топ 3 бота для пробивки информации в тг
+---
+title:  "Топ 3 бота для пробивки информации в тг"
+mathjax: true
+layout: post
+categories: media
+---
 
 <figure><img src=".gitbook/assets/brave_7mZoemdymk.jpg" alt=""><figcaption></figcaption></figure>
 
