@@ -1,8 +1,6 @@
 ---
-title:  "Топ 3 бота для пробивки информации в тг"
-mathjax: true
+title:  "Топ 5 бота для пробивки информации в тг"
 layout: post
-categories: media
 ---
 
 ![Swiss Alps](/images/top-5-botov-probiva.webp)
