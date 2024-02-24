@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:gebutcher@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:abuse@gebutcher.info"}
   - {title: Telegram, icon: telegram, url: "https://t.me/gebutcher"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
