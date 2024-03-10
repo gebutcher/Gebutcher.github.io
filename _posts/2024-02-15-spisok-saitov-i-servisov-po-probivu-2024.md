@@ -98,7 +98,7 @@ layout: post
 
 15\. [HiddenFriends](https://vk.com/app3256362) — Поиск скрытых друзей в списке контактов.
 
-16.⁣⁣ [UniversalSearchRobot](https://t.me/UniversalSearchSuperBot) — Поиск информации в Мой Мир.
+16.⁣⁣ [UniversalSearchRobot](https://ok.me/v81G1) — Поиск информации в Мой Мир.
 
 17\. [Vbib\_bot](https://t.me/Vbib\_bot) — Множество функций, включая поиск по номеру телефона и email.
 
