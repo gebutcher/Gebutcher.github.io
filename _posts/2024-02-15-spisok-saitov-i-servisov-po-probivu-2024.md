@@ -82,13 +82,13 @@ layout: post
 
 7\. [InfoApp](https://vk.com/app7183114) — Поиск созданных групп, упоминаний в комментариях и другой информации.
 
-8\. [InfoVkUser\_bot](https://t.me/InfoVkUser\_bot) — Анализ друзей профиля ВК.
+8\. [InfoVkUser](https://t.me/InfoVkUser_bot) — Анализ друзей профиля ВК.
 
-9\. [FindNameVk\_bot ](https://t.me/FindNameVk\_bot)— Поиск истории смены фамилий профиля.
+9\. [FindNameVk](https://t.me/FindNameVk_bot)— Поиск истории смены фамилий профиля.
 
 10\. [Vkdia.com](https://vkdia.com/) — Определение собеседников в ВКонтакте.
 
-11\. [ГлазБога](https://ok.me/5YJE1) — бот, который находит фотографии из закрытых аккаунтов в хорошем качестве и предоставляет информацию о дате создания.
+11\. [ГлазБога](/EyeofGod/) — бот, который находит фотографии из закрытых аккаунтов в хорошем качестве и предоставляет информацию о дате создания.
 
 12\. [Vkpt.info](https://vkpt.info/) — Поиск скрытых друзей и анализ активности.
 
@@ -98,9 +98,9 @@ layout: post
 
 15\. [HiddenFriends](https://vk.com/app3256362) — Поиск скрытых друзей в списке контактов.
 
-16.⁣⁣ [UniversalSearchRobot](https://ok.me/v81G1) — Поиск информации в Мой Мир.
+16.⁣⁣  [UniversalSearchRobot](https://ok.me/v81G1) — Поиск информации в Мой Мир.
 
-17\. [Vbib\_bot](https://t.me/Vbib\_bot) — Множество функций, включая поиск по номеру телефона и email.
+17\. [Vbib](https://t.me/Vbib_bot) — Множество функций, включая поиск по номеру телефона и email.
 
 18\. [VKHistoryRobot](https://t.me/VKHistoryRobot) — история профиля с 2010 по 2021 год, включая аватары, доступна по числовому ID страницы.
 
@@ -120,9 +120,9 @@ layout: post
 
 7\. [Telescan](https://bit.ly/3ORc6uN) — Данные о членстве в группах, сообщениях и истории изменений имен.
 
-8\. [UniversalSearch](https://t.me/UniversalSearchSuperBot) — Данные по Telegram ID, включая адреса почты и статусы.
+8\.  [UniversalSearch](https://t.me/UniversalSearchSuperBot) — Данные по Telegram ID, включая адреса почты и статусы.
 
-9\. [TgAnalyst\_bot](https://t.me/TgAnalyst\_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
+9\.  [TgAnalyst\_bot](https://t.me/TgAnalyst\_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
 
 10\. [Leakedinfobot](/leakedinfobot/) — Бот поможет найти часть номера телефона и отследить историю изменений ссылки аккаунта.
 
