@@ -58,7 +58,7 @@ layout: post
 
 24\. [Emobiletracker.com](https://www.emobiletracker.com/) — Отслеживание номера мобильного телефона и его местоположения.
 
-25\. [Safe\_search\_bot](https://t.me/safe\_search\_bot) — Поиск персональных данных по телефону, электронной почте, имени и адресу.
+25\. [Data1eakS](https://t.me/data1eaks_robot) — Бесплатный бот сообщит вам, был ли ваш телефон или эл.почта обнаружены в утечках.
 
 26\. [X-ray.contact](https://x-ray.contact/ru-search) — Поиск имён, логинов, аккаунтов и другой информации.
 
