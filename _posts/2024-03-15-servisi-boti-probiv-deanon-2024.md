@@ -92,13 +92,13 @@ layout: post
 
 12\. [Vkpt.info](https://vkpt.info/) — Поиск скрытых друзей и анализ активности.
 
-13\. [SovaAppBot](https://ok.me/NDKG1) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
+13\. [SovaAppBot](/SOVABot/) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
 
 14\. [api.vk.com](https://vk.com/dev/messages.getLastActivity) — покажет дату последней активности аккаунта
 
 15\. [HiddenFriends](https://vk.com/app3256362) — Поиск скрытых друзей в списке контактов.
 
-16.⁣⁣  [UniversalSearchRobot](https://ok.me/v81G1) — Поиск информации в Мой Мир.
+16.⁣⁣  [UniversalSearchRobot](/UniversalSearch/) — Поиск информации в Мой Мир.
 
 17\. [Vbib](https://t.me/Vbib_bot) — Множество функций, включая поиск по номеру телефона и email.
 
@@ -120,7 +120,7 @@ layout: post
 
 7\. [Telescan](https://bit.ly/3ORc6uN) — Данные о членстве в группах, сообщениях и истории изменений имен.
 
-8\.  [UniversalSearch](https://t.me/UniversalSearchSuperBot) — Данные по Telegram ID, включая адреса почты и статусы.
+8\.  [UniversalSearch](/UniversalSearch/) — Данные по Telegram ID, включая адреса почты и статусы.
 
 9\.  [TgAnalyst\_bot](https://t.me/TgAnalyst\_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
 
@@ -163,13 +163,13 @@ layout: post
 
 13\. [Holehe](https://github.com/megadose/holehe) — Инструмент для проверки, на каких сайтах зарегистрирован искомый email адрес. Он осуществляет поиск по 30+ различным источникам.
 
-14\. [UniversalSearch](https://t.me/UniversalSearchSuperBot) — Поиск профилей на Яндексе, Google, утекших паролей и другой информации.
+14\. [UniversalSearch](/UniversalSearch/) — Поиск профилей на Яндексе, Google, утекших паролей и другой информации.
 
 15\. [Rocketreach.co](https://rocketreach.co/) — Доступ к именам, профилям в соцсетях, email адресам и другой информации о пользователях.
 
 16\. [Avatarapi.com](https://avatarapi.com/) — Поиск аватара пользователя по email.
 
-17\. [SovaAppBot](https://ok.me/NDKG1) — Определение сайтов, привязанных к email адресу.
+17\. [SovaAppBot](/SOVABot/) — Определение сайтов, привязанных к email адресу.
 
 18\. [have i been pwned?](https://haveibeenpwned.com/) — Проверка утечек данных для email адресов.
 
