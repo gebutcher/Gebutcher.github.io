@@ -92,7 +92,7 @@ layout: post
 
 12\. [Vkpt.info](https://vkpt.info/) — Поиск скрытых друзей и анализ активности.
 
-13\. [SovaAppBot](https://t.me/SovaAppBot) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
+13\. [SovaAppBot](https://ok.me/NDKG1) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
 
 14\. [api.vk.com](https://vk.com/dev/messages.getLastActivity) — покажет дату последней активности аккаунта
 
@@ -169,7 +169,7 @@ layout: post
 
 16\. [Avatarapi.com](https://avatarapi.com/) — Поиск аватара пользователя по email.
 
-17\. [SovaAppBot](https://t.me/SovaAppBot) — Определение сайтов, привязанных к email адресу.
+17\. [SovaAppBot](https://ok.me/NDKG1) — Определение сайтов, привязанных к email адресу.
 
 18\. [have i been pwned?](https://haveibeenpwned.com/) — Проверка утечек данных для email адресов.
 
