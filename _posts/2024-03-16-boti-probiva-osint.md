@@ -40,7 +40,7 @@ OSINT — боты или еще их называют ботами для “п
 
 ## Телефоны: <a href="#id-2478" id="id-2478"></a>
 
-[@Real GetContact bot](https://ok.me/Ax7D1) — GetContact настоящий с 4 бесплатными поисками.
+[@Real GetContact bot](/getcontactbot/) — GetContact настоящий с 4 бесплатными поисками.
 
 [@phone_bot](https://t.me/getphonename_bot) — найдет информацию о номере телефона, ФИО, Email, и по Telegam ID. Выдает больше информации, чем оригинальный GetContact.
 
