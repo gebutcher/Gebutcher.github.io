@@ -62,7 +62,7 @@ layout: post
 
 26\. [X-ray.contact](https://x-ray.contact/ru-search) — Поиск имён, логинов, аккаунтов и другой информации.
 
-27\. [GetFb\_bot](https://t.me/getfb\_bot) — это бот, помогает находить аккаунты на Facebook.
+27\. [GetFb\_bot](https://bit.ly/4f3RavP) — это бот, помогает находить аккаунты на Facebook.
 
 28\. [Vedbex.com](https://www.vedbex.com/tools/phone2skype) — раскроет информацию о Skype-аккаунте.
 
@@ -114,7 +114,7 @@ layout: post
 
 4\. [TeleSINT\_Bot](https://t.me/telesint\_bot) — Поможет вам найти группы, в которых состоит определенный пользователь Telegram.
 
-5\. [Creationdatebot](https://t.me/creationdatebot) — Дата создания аккаунта на основе доступных данных.
+5\. [Creationdatebot](https://t.me/tgscan_clone_robot/) — Дата создания аккаунта на основе доступных данных.
 
 6\. [Unamer](https://bit.ly/49BVEqF) — Предоставляет информацию о том, какие пользователи использовали определенные никнеймы.
 
@@ -122,13 +122,13 @@ layout: post
 
 8\.  [UniversalSearch](/UniversalSearch/) — Данные по Telegram ID, включая адреса почты и статусы.
 
-9\.  [TgAnalyst\_bot](https://t.me/TgAnalyst\_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
+9\.  [TgAnalyst\_bot](https://t.me/TgAnalyst_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
 
 10\. [Leakedinfobot](/leakedinfobot/) — Бот поможет найти часть номера телефона и отследить историю изменений ссылки аккаунта.
 
 11\. [TuriBot](https://t.me/TuriBot) — по ID аккаунта Telegram выдает имя пользователя. Просто отправьте боту команду /resolve + ID
 
-12\. [Eyeofbeholder\_bot](https://t.me/eyeofbeholder\_bot) — Интересы аккаунта и история изменений данных.
+12\. [funstatbot](/funstatbot/) — Интересы аккаунта и история изменений данных.
 
 13\. [Regdatebot](https://t.me/regdatebot) — Приблизительная дата регистрации аккаунта.
 
@@ -248,7 +248,7 @@ layout: post
 
 15\. [Pimeyesbot](https://vk.cc/crhQK6) — Бот для поиска фотографий в интернете.
 
-16\. [findmekz\_bot](https://t.me/findmekz\_bot) — Бот для поиска фотографий в ВКонтакте (для пользователей из Казахстана).
+16\. [findmekz_bot](https://t.me/ShtrafKZBot) — Бот для поиска фотографий в ВКонтакте (для пользователей из Казахстана).
 
 17\. [Сamgirlfinder.net](https://camgirlfinder.net/search) — Сервис поиска вебкам-моделей и их профилей.
 
@@ -332,7 +332,7 @@ layout: post
 
 5\. [nomerogram.ru](https://www.nomerogram.ru/) — Поиск автомобилей по госномеру, фотографии, информация о пробеге и ДТП.
 
-6\. [NoblackAuto\_bot](https://t.me/noblackAuto\_bot) — Извлечение информации о машинах по госномерам с использованием нейронных сетей. предлагает API-ключи для сотрудничества с другими разработчиками.
+6\. [NoblackAutoBot](https://vk.cc/cwuGRC) — Извлечение информации о машинах по госномерам с использованием нейронных сетей. предлагает API-ключи для сотрудничества с другими разработчиками.
 
 7\. [checkvehicle.sfri](https://checkvehicle.sfri.ru/AppCheckVehicle/app/main#cmdr0329976453) — Проверка транспортных средств, связанных с инвалидами.
 
