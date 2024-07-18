@@ -92,7 +92,7 @@ layout: post
 
 12\. [Vkpt.info](https://vkpt.info/) — Поиск скрытых друзей и анализ активности.
 
-13\. [SovaAppBot](/SOVABot/) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
+13\. [InfoVkUser](https://t.me/InfoVkUser_bot/) — предоставляет полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
 
 14\. [api.vk.com](https://vk.com/dev/messages.getLastActivity) — покажет дату последней активности аккаунта
 
@@ -110,7 +110,7 @@ layout: post
 
 2\. [cipher387.github.io](https://cipher387.github.io/quickcacheandarchivesearch/) — Доступ к архивированным версиям веб-страниц и веб-архивам.
 
-3\. [SangMataInfo\_bot](https://t.me/SangMataInfo\_bot) — История изменений имени аккаунта в Telegram.
+3\. [SangMataInfo_bot](https://t.me/SangMataInfo\_bot) — История изменений имени аккаунта в Telegram.
 
 4\. [TeleSINTBot](https://t.me/TeleSINT_bot) — Поможет вам найти группы, в которых состоит определенный пользователь Telegram.
 
@@ -122,15 +122,15 @@ layout: post
 
 8\.  [UniversalSearch](/UniversalSearch/) — Данные по Telegram ID, включая адреса почты и статусы.
 
-9\.  [TgAnalyst\_bot](https://t.me/TgAnalyst_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
+9\.  [TgAnalyst_bot](https://t.me/TgAnalyst_bot) — Помогает найти информацию о Telegram-аккаунтах, включая номер телефона, предыдущее имя аккаунта, логин, IP-адрес и устройство.
 
 10\. [Leakedinfobot](/leakedinfobot/) — Бот поможет найти часть номера телефона и отследить историю изменений ссылки аккаунта.
 
 11\. [TuriBot](https://t.me/TuriBot) — по ID аккаунта Telegram выдает имя пользователя. Просто отправьте боту команду /resolve + ID
 
-12\. [funstatbot](/funstatbot/) — Интересы аккаунта и история изменений данных.
+12\. [funstatbot](/funstatbot/) — дает историю имен, ID, сообщения, номера телефонов, активность, возраст, предпочтения, адреса электронной почты и может следить за людьми.
 
-13\. [Regdatebot](https://t.me/regdatebot) — Приблизительная дата регистрации аккаунта.
+13\. [TlgGeoEarthBot](https://t.me/TlgGeoEarthBot) — можно идентифицировать пользователей Telegram по геопозиции и номерам телефонов, если доступ к ним не ограничен.
 
 14\. [QuickOSINT](/quick-osint/) — умеет находить номера телефонов, группы, ID и ссылки на аккаунты. Вы можете искать по нику или ID аккаунта. Для новых аккаунтов доступно всего 3 бесплатных запроса.
 
@@ -169,7 +169,7 @@ layout: post
 
 16\. [Avatarapi.com](https://avatarapi.com/) — Поиск аватара пользователя по email.
 
-17\. [SovaAppBot](/SOVABot/) — Определение сайтов, привязанных к email адресу.
+17\. [OpenData](/SOVABot/) — Определение сайтов, привязанных к email адресу.
 
 18\. [have i been pwned?](https://haveibeenpwned.com/) — Проверка утечек данных для email адресов.
 
