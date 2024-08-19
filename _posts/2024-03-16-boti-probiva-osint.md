@@ -116,6 +116,8 @@ OSINT — боты или еще их называют ботами для “п
 
 [@InstaBot](https://bit.ly/49KrzVt) — скачивает любые медиафайлы из Instagram.
 
+[@DiscordSensor](https://t.me/discordsensorbot) — собирает информацию о Discord-аккаунтах, позволяет искать данные по ID, тегу, серверу или ссылке.
+
 [@SaveYoutubeBot](https://t.me/SaveYoutubeBot) — ищет и скачивает ролики из YouTube.
 
 [@getfb\_bot](https://t.me/getfb_bot) — поиск страницы в Facebook по номеру телефона.
