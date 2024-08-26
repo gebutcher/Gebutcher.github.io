@@ -1,160 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-    <url>
-        <loc>https://gebutcher.info</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/boti-probiva-osint</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/telegram-boti-dlya-poiska-i-probiva-po-nomeru-telefona</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/servisi-boti-probiv-deanon-2024</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/kak-ispolzovat-botov-v-telegram</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/boty-dlya-probiva-moshnye-instrumenty-ili-narushenie-privatnosti</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/effektivnye-instrumenty-dlya-osinta-probiva-v-vkontakte</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/top-bot-probiva-informacii</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/princip-raboty-botov-probiva-informacii</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/leakedinfobot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/usersbox</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/quick-osint</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/himerasearch</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/anglsbot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/zernerda</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/smartsearchbot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/sovabot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/getcontactbot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/phonebot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/leakosint</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/dataleaks</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/funstatbot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/universalsearch</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/telescan</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/avinfobot</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://gebutcher.info/eyeofgod</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+
+<url>
+  <loc>https://gebutcher.info/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/boti-probiva-osint/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/telegram-boti-dlya-poiska-i-probiva-po-nomeru-telefona/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/servisi-boti-probiv-deanon-2024/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/kak-ispolzovat-botov-v-telegram/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/effektivnye-instrumenty-dlya-osinta-probiva-v-vkontakte/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/boty-dlya-probiva-moshnye-instrumenty-ili-narushenie-privatnosti/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/top-bot-probiva-informacii/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/princip-raboty-botov-probiva-informacii/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/leakedinfobot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/usersbox/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/quick-osint/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/HimeraSearch/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/anglsbot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/zernerda/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/smartsearchbot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/SOVABot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/getcontactbot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/phonebot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/LeakOSINT/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/Dataleaks/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/funstatbot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/TeleScan/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/UniversalSearch/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/AVinfoBot/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gebutcher.info/EyeofGod/</loc>
+  <lastmod>2024-08-26T10:04:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
