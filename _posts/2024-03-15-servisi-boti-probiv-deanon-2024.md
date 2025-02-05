@@ -112,7 +112,7 @@ layout: post
 
 3\. [SangMataInfo_bot](https://t.me/SangMataInfo\_bot) — История изменений имени аккаунта в Telegram.
 
-4\. [TeleSINTBot](https://t.me/TeleSINT_bot) — Поможет вам найти группы, в которых состоит определенный пользователь Telegram.
+4\. [TeleSINTBot](/TeleSINTbots/) — Поможет вам найти группы, в которых состоит определенный пользователь Telegram.
 
 5\. [Creationdatebot](https://t.me/tgscan_clone_robot/) — Дата создания аккаунта на основе доступных данных.
 
