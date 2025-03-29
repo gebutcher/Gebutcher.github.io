@@ -1,6 +1,7 @@
 ---
-title:  "Эффективные инструменты для OSINTа / пробива в ВКонтакте"
+title: "Эффективные инструменты для OSINTа / пробива в ВКонтакте"
 layout: post
+last_modified_at: 2025-03-30
 ---
 
 ![Swiss Alps](/images/vk.webp)
