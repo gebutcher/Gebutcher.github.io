@@ -33,19 +33,15 @@ last_modified_at: 2025-03-30
 
 #### Боты в Telegram: <a href="#xbwl" id="xbwl"></a>
 
-* [@][VKHistoryRobot](https://vk.cc/crgASv) — предоставляет старые копии данных аккаунта.
-* [@][FriendlyGraphBot](https://vk.cc/crgASv) — создаёт граф связей аккаунта.
-* [@][FindNameVk\_bot](https://vk.cc/crgASv) — отслеживает историю смены фамилий и дату создания аккаунта.
+* [@VKHistoryRobot](https://vk.cc/crgASv) — предоставляет старые копии данных аккаунта.
+* [@FriendlyGraph](https://vk.cc/crgASv) — создаёт граф связей аккаунта.
+* [@FindNameVk](https://vk.cc/crgASv) — отслеживает историю смены фамилий и дату создания аккаунта.
 * [@LeakOSINT](/LeakOSINT/) — находит фотографии из закрытых аккаунтов, пароли, почту, номер телефона и предоставляет информацию о дате создания.
 * [@Zernerda](/zernerda/) - выполняет поиск аккаунтов ВКонтакте в Моём Мире и много других проверок, собранных в одном боте.
 * [@Usersbox](/usersbox/) — бесплатно даст полезную статистику о друзьях ваших аккаунтов, а также может сделать выборку по городам, странам, возрасту и полу.
-
-**(Дополнительно):**
-
-* [@InfoVkUser_bot](https://t.me/InfoVkUser_bot) — выдаёт расширенную статистику по друзьям: возраст, пол, города, школы, вузы.
-* [@GetPhone_bot](https://t.me/GetPhone_bot) — находит номера, email, Telegram, проверяет по базам утечек и уязвимостям.
+* [@InfoVkUser](https://t.me/InfoVkUser_bot) — выдаёт расширенную статистику по друзьям: возраст, пол, города, школы, вузы.
 * [@UniversalSearchRobot](/UniversalSearch/) — универсальный мультибот: поиск по никам, базам данных, соцсетям, включая VK.
-* [@VkFriendTrack_bot](https://t.me/VkFriendTrack_bot) — отслеживает, кто добавился или удалился из друзей, и когда.
+* [@VkFriendTrack](https://t.me/VkFriendTrack_bot) — отслеживает, кто добавился или удалился из друзей, и когда.
 * [@VkActivityBot](https://t.me/VkActivityBot) — мониторинг онлайна, смен аватарок и действий пользователя.
 
 ---
@@ -72,5 +68,3 @@ last_modified_at: 2025-03-30
 * [Maigret](https://github.com/soxoj/maigret) — поиск по нику на 1500+ сайтах, включая VK.
 * [Identifier от Codeby](https://codeby.net/threads/identifier-vk-osint-tool.69691/) — утилита для анализа профиля и его окружения.
 * [Maltego](https://www.maltego.com) + кастомные трансформы — мощный визуальный граф связей, можно добавить VK через API.
-
----
